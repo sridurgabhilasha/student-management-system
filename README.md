@@ -42,7 +42,7 @@ List student/course relationships
 
 ---
 
-🧪 Running Tests
+## 🧪 Running Tests
 
 The project includes unit tests for each major service class using unittest.
 
@@ -51,7 +51,7 @@ python -m unittest discover tests
 
 ---
 
-📘 Key Concepts Used
+## Key Concepts Used
 
 Object-Oriented Programming (OOP)
 
@@ -78,7 +78,7 @@ Text-based interactive prompts for smooth user experience
 
 ---
 
-💡 Future Enhancements
+##💡 Future Enhancements
 
 Add GUI (Tkinter or Web-based with Flask)
 
@@ -94,7 +94,7 @@ REST API support
 
 ---
 
-📜 License
+##📜 License
 
 Licensed under the MIT License. Free to use and modify.
 
